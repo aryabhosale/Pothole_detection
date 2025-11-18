@@ -1,0 +1,8 @@
+
+
+train: ./data/train
+val: ./data/val
+nc: 1
+
+# class names
+names: [ 'pothole' ]
